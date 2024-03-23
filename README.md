@@ -6,7 +6,6 @@ This repository contains Exploratory Data Analysis (EDA) on global terroirs.
 Terroir refers to the environmental conditions, especially soil and climate, in which grapes are grown and that give a wine its unique flavor and aroma. Understanding terroir is crucial in viticulture and winemaking as it directly impacts wine quality and characteristics.
                                              
                                              Repository Structure:
-data/: This directory contains the dataset used for analysis.
 
 notebooks/: This directory contains Google Colab notebooks where the EDA is performed.
 
